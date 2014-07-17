@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="frame">false</item>
+    <item type="id" name="top_LinearLayout">false</item>
+    <item type="id" name="ads">false</item>
+    <item type="id" name="btndivmob">false</item>
+    <item type="id" name="game_id">false</item>
+    <item type="id" name="btnBanner">false</item>
+    <item type="id" name="btnClose">false</item>
+    <item type="id" name="btntile">false</item>
+    <item type="id" name="btnBanner1">false</item>
+    <item type="id" name="btnBanner2">false</item>
+    <item type="id" name="btnYes">false</item>
+    <item type="id" name="btnNo">false</item>
+    <item type="id" name="ImageView01">false</item>
+    <item type="id" name="menu_settings">false</item>
+</resources>

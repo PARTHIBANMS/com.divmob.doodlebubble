@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: com.divmob.doodlebubble.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '4'
+  targetSdkVersion: '19'
+packageInfo:
+  cur_package: com.divmob.doodlebubble
+  orig_package: com.divmob.doodlebubble
+compressionType: false

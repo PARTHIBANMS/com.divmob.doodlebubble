@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center" android:layout_gravity="center" android:id="@id/btntile" android:background="@color/darkgray" android:layout_width="fill_parent" android:layout_height="60.0sp" android:text="Are you sure to QUIT?" android:layout_weight="1.0" />
+    <ImageButton android:id="@id/btnBanner1" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/banner_default_exit" android:scaleType="fitXY" android:layout_weight="1.0" />
+    <ImageButton android:id="@id/btnBanner2" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/banner_default_exit" android:scaleType="fitXY" android:layout_weight="1.0" />
+    <LinearLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <Button android:layout_gravity="left" android:id="@id/btnYes" android:layout_width="89.0dip" android:layout_height="wrap_content" android:text="Yes" />
+        <Button android:layout_gravity="right" android:id="@id/btnNo" android:layout_width="80.0dip" android:layout_height="wrap_content" android:text="No" />
+    </LinearLayout>
+</LinearLayout>

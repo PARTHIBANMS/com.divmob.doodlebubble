@@ -1,0 +1,54 @@
+[
+	{
+	    name: 'mainapp',
+	  	file: 'bubblebirds_480x240.png',     
+	    width: '320',
+	    height: '480'
+  	},
+  	{
+  		name: 'playbtn',
+  		file: 'b_play.png', 
+  		width: '135',
+	    height: '105'
+  	},
+  	{
+  		name: 'loading',
+  		file: 'loading_text.png',  		
+  		width: '186',
+	    height: '30'
+  	},
+  	{
+  		name: 'moregame',
+  		file: 'more_game.png',  		
+  		width: '512',
+	    height: '64'
+  	},  	
+  	{
+  		name: 'promoteapp',
+  		width: 480,
+	    height: 160,		
+  		data:[
+  			{
+  				file: 'banner_freethebirds_480x160.png',
+  				link: 'market://details?id=com.divmob.freethebirdsgame' 
+  			},
+			{
+  				file: 'galaxy_alert_480x160.png',
+  				link: 'market://details?id=com.divmob.galaxyalert' 
+  			},  		
+  			{
+  				file: 'field_runner_480x160.png',
+  				link: 'market://details?id=com.divmob.fieldrunner2' 
+  			},
+			{
+  				file: 'kid_memory_480x160.png',
+  				link: 'market://details?id=com.divmob.kidsmemory' 
+  			},
+  			{
+  				file: 'kid_creation_480x160.png',
+  				link: 'market://details?id=com.divmob.kidcreator' 
+  			}
+  		]
+  	}
+  	
+]
